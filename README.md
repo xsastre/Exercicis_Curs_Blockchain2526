@@ -9,6 +9,7 @@
 [![Xavier Sastre](https://img.shields.io/badge/Xavier%20Sastre-Curs%202526-red)](https://github.com/xsastre)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Darrera actualització](https://img.shields.io/github/last-commit/xsastre/Exercicis_Curs_Blockchain2526)
+![Nombre de commits](https://img.shields.io/github/commit-activity/xsastre/Exercicis_Curs_Blockchain2526)
 
 # Codis curs Blockchain 25-26
 
