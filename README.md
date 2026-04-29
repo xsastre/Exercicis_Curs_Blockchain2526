@@ -29,6 +29,7 @@ lment */
 ![Blockchain 25-26](https://img.shields.io/badge/Curs%20Blockchain-2526-green)
 ![Xavier Sastre](https://img.shields.io/badge/Xavier%20Sastre-Curs%202526-red)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Darrera actualització](https://img.shields.io/github/last-commit/xsastre/Exercicis_Curs_Blockchain2526)
 
 # Codis curs Blockchain 25-26
 
@@ -46,5 +47,5 @@ Aquest repositori conté els codis i exercicis desenvolupats durant el curs de B
 
 ## Llicència d'ús
 
-Aquest projecte es distribueix sota la llicència **MIT**. L'ús d'aquests materials és lliure, especialment amb finalitats educatives i d'aprenentatge. Pots utilitzar, copiar, modificar i distribuir el codi d'aquest repositori de manera lliure i sense restriccions.
+Aquest projecte es distribueix sota la llicència [MIT](LICENSE). L'ús d'aquests materials és lliure, especialment amb finalitats educatives i d'aprenentatge. Pots utilitzar, copiar, modificar i distribuir el codi d'aquest repositori de manera lliure i sense restriccions.
 
